@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="formulario">formulario</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">correo electronico</string>
+    <string name="contraseña">contraseña</string>
+    <string name="recontraseña">repita contraseña</string>
+    <string name="masculino">masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="fecha">fecha de nacimiento</string>
+    <string name="sexo">sexo</string>
+    <string name="ciudad">ciudad de nacimiento</string>
+    <string name="dormir">dormir</string>
+    <string name="leer">leer</string>
+    <string name="deporte">deporte</string>
+    <string name="internet">estar en inernet</string>
+    <string name="guardar">guardar</string>
+</resources>
